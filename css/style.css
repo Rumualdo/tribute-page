@@ -1,0 +1,86 @@
+@charset "utf-8";
+
+@font-face {
+    font-family: '1942';
+    src: url('../fonts/1942/1942-webfont.woff2') format('woff2'),
+         url('../fonts/1942/1942-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #202020 url("../img/images/backgrounds/noise.png") top left repeat;
+    font-family: "1942", serif;
+    font-size: 16px;
+    color: #808080;
+}
+
+h1,
+h2,
+h3 {
+    text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);
+}
+
+h1#title {
+    font-size: 5vw;
+    text-align: center;
+    margin: 3% 0; 
+}
+
+figure#img-div {
+    text-align: center;
+}
+
+img#image {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+    border: 10px solid transparent;
+    border-image-source: url("../img/images/backgrounds/border-gabe.png");
+    border-image-slice: 90;
+    filter: grayscale(1);
+}
+
+figcaption#img-caption {
+    margin: 1% 0;
+}
+
+section#tribute-info h2 {
+    margin-top: 3%;
+    font-size: 2.5vw;
+    text-align: center;
+}
+
+section#tribute-info ul {
+    width: 50%;
+    margin: 4% auto;
+    list-style-image: url("../img/images/backgrounds/valve-list-image.png");
+}
+
+section#tribute-info ul li {
+    font-weight: bold;
+}
+
+section#tribute-info h3 {
+    margin: 5% 0;
+    font-size: 1.5vw;
+    text-align: center;
+}
+
+section#tribute-info h3 a {
+    text-decoration: none;
+    color: white;
+    transition: all ease 400ms;
+}
+
+section#tribute-info h3 a:hover {
+    color: gainsboro;
+}
