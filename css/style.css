@@ -95,7 +95,7 @@ section#tribute-info h3 a:hover {
     color: gainsboro;
 }
 
-@media screen and (min-width: 320px) and (max-width: 480px) {
+@media screen and (min-width: 320px) and (max-width: 479px) {
     body {
         font-size: 20px;
     }
@@ -126,7 +126,7 @@ section#tribute-info h3 a:hover {
     }
 }
 
-@media screen and (min-width: 320px) and (max-width: 480px) and (orientation: portrait) {
+@media screen and (min-width: 320px) and (max-width: 479px) and (orientation: portrait) {
     h1#title {
         margin: 10% 0;
         font-size: 2rem;
@@ -151,7 +151,7 @@ section#tribute-info h3 a:hover {
     }
 }
 
-@media screen and (min-width: 320px) and (max-width: 480px) and (orientation: landscape) {
+@media screen and (min-width: 320px) and (max-width: 479px) and (orientation: landscape) {
     h1#title {
         margin: 10% 0;
         font-size: 3rem;
@@ -165,5 +165,78 @@ section#tribute-info h3 a:hover {
     section#tribute-info h3 {
         margin: 10% 0;
         font-size: 1.2rem;
+    }
+}
+
+@media screen and (min-width: 480px) and (max-width: 599px) {
+    body {
+        font-size: 24px;
+    }
+
+    #main {
+        margin: 0;
+        max-width: 100%;
+        padding: 1%;
+        border-radius: 0;
+        background-color: transparent;
+        box-shadow: none;
+    }
+
+    section#tribute-info ul {
+        width: 80%;
+        margin: 4% auto;
+        column-count: unset;
+        column-gap: unset;
+        column-rule: unset;
+    }
+
+    section#tribute-info ul li {
+        margin-bottom: 10%;
+    }
+
+    figcaption#img-caption {
+        margin: 5% 0;
+    }
+}
+
+@media screen and (min-width: 480px) and (max-width: 599px) and (orientation: portrait) {
+    h1#title {
+        margin: 10% 0;
+        font-size: 3rem;
+    }
+
+    section#tribute-info h2 {
+        margin: 10% 0;
+        font-size: 2rem;
+    }
+
+    section#tribute-info h3 {
+        margin: 10% 0;
+        font-size: 1.5rem;
+    }
+
+    figcaption#img-caption {
+        font-size: 1rem;
+    }
+
+    section#tribute-info ul {
+        font-size: 1rem;
+    }
+}
+
+@media screen and (min-width: 480px) and (max-width: 599px) and (orientation: landscape) {
+    h1#title {
+        margin: 10% 0;
+        font-size: 4rem;
+    }
+
+    section#tribute-info h2 {
+        margin: 10% 0;
+        font-size: 2.5rem;
+    }
+
+    section#tribute-info h3 {
+        margin: 10% 0;
+        font-size: 1.8rem;
     }
 }
