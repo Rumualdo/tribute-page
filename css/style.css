@@ -201,17 +201,17 @@ section#tribute-info h3 a:hover {
 
 @media screen and (min-width: 480px) and (max-width: 599px) and (orientation: portrait) {
     h1#title {
-        margin: 10% 0;
+        margin: 8% 0;
         font-size: 2rem;
     }
 
     section#tribute-info h2 {
-        margin: 10% 0;
+        margin: 8% 0;
         font-size: 1.2rem;
     }
 
     section#tribute-info h3 {
-        margin: 10% 0;
+        margin: 8% 0;
         font-size: 1.1rem;
     }
 
@@ -226,17 +226,17 @@ section#tribute-info h3 a:hover {
 
 @media screen and (min-width: 480px) and (max-width: 599px) and (orientation: landscape) {
     h1#title {
-        margin: 10% 0;
+        margin: 8% 0;
         font-size: 3rem;
     }
 
     section#tribute-info h2 {
-        margin: 10% 0;
+        margin: 8% 0;
         font-size: 1.8rem;
     }
 
     section#tribute-info h3 {
-        margin: 10% 0;
+        margin: 8% 0;
         font-size: 1.2rem;
     }
 }
@@ -274,17 +274,17 @@ section#tribute-info h3 a:hover {
 
 @media screen and (min-width: 600px) and (max-width: 839px) and (orientation: portrait) {
     h1#title {
-        margin: 10% 0;
+        margin: 5% 0;
         font-size: 2rem;
     }
 
     section#tribute-info h2 {
-        margin: 10% 0;
+        margin: 5% 0;
         font-size: 1.2rem;
     }
 
     section#tribute-info h3 {
-        margin: 10% 0;
+        margin: 5% 0;
         font-size: 1.1rem;
     }
 
@@ -299,17 +299,17 @@ section#tribute-info h3 a:hover {
 
 @media screen and (min-width: 600px) and (max-width: 839px) and (orientation: landscape) {
     h1#title {
-        margin: 10% 0;
+        margin: 5% 0;
         font-size: 3rem;
     }
 
     section#tribute-info h2 {
-        margin: 10% 0;
+        margin: 5% 0;
         font-size: 1.8rem;
     }
 
     section#tribute-info h3 {
-        margin: 10% 0;
+        margin: 5% 0;
         font-size: 1.2rem;
     }
 }
