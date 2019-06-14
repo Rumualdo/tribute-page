@@ -240,3 +240,76 @@ section#tribute-info h3 a:hover {
         font-size: 1.2rem;
     }
 }
+
+@media screen and (min-width: 600px) and (max-width: 839px) {
+    body {
+        font-size: 16px;
+    }
+
+    #main {
+        margin: 0;
+        max-width: 100%;
+        padding: 1%;
+        border-radius: 0;
+        background-color: transparent;
+        box-shadow: none;
+    }
+
+    section#tribute-info ul {
+        width: 80%;
+        margin: 4% auto;
+        column-count: unset;
+        column-gap: unset;
+        column-rule: unset;
+    }
+
+    section#tribute-info ul li {
+        margin-bottom: 10%;
+    }
+
+    figcaption#img-caption {
+        margin: 5% 0;
+    }
+}
+
+@media screen and (min-width: 600px) and (max-width: 839px) and (orientation: portrait) {
+    h1#title {
+        margin: 10% 0;
+        font-size: 2rem;
+    }
+
+    section#tribute-info h2 {
+        margin: 10% 0;
+        font-size: 1.2rem;
+    }
+
+    section#tribute-info h3 {
+        margin: 10% 0;
+        font-size: 1.1rem;
+    }
+
+    figcaption#img-caption {
+        font-size: 0.8rem;
+    }
+
+    section#tribute-info ul {
+        font-size: 0.8rem;
+    }
+}
+
+@media screen and (min-width: 600px) and (max-width: 839px) and (orientation: landscape) {
+    h1#title {
+        margin: 10% 0;
+        font-size: 3rem;
+    }
+
+    section#tribute-info h2 {
+        margin: 10% 0;
+        font-size: 1.8rem;
+    }
+
+    section#tribute-info h3 {
+        margin: 10% 0;
+        font-size: 1.2rem;
+    }
+}
