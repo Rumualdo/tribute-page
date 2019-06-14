@@ -313,3 +313,67 @@ section#tribute-info h3 a:hover {
         font-size: 1.2rem;
     }
 }
+
+@media screen and (min-width: 840px) and (max-width: 959px) {
+    body {
+        font-size: small;
+    }
+
+    section#tribute-info ul {
+        width: 80%;
+        margin: 4% auto;
+        column-count: unset;
+        column-gap: unset;
+        column-rule: unset;
+    }
+
+    section#tribute-info ul li {
+        margin-bottom: 5%;
+    }
+
+    figcaption#img-caption {
+        margin: 5% 0;
+    }
+}
+
+@media screen and (min-width: 840px) and (max-width: 959px) and (orientation: portrait) {
+    h1#title {
+        margin: 5% 0;
+        font-size: 2rem;
+    }
+
+    section#tribute-info h2 {
+        margin: 5% 0;
+        font-size: 1.2rem;
+    }
+
+    section#tribute-info h3 {
+        margin: 5% 0;
+        font-size: 1.1rem;
+    }
+
+    figcaption#img-caption {
+        font-size: 0.8rem;
+    }
+
+    section#tribute-info ul {
+        font-size: 0.8rem;
+    }
+}
+
+@media screen and (min-width: 840px) and (max-width: 959px) and (orientation: landscape) {
+    h1#title {
+        margin: 5% 0;
+        font-size: 3rem;
+    }
+
+    section#tribute-info h2 {
+        margin: 5% 0;
+        font-size: 1.8rem;
+    }
+
+    section#tribute-info h3 {
+        margin: 5% 0;
+        font-size: 1.2rem;
+    }
+}
