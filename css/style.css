@@ -111,6 +111,7 @@ section#tribute-info h3 a:hover {
         column-count: unset;
         column-gap: unset;
         column-rule: unset;
+        font-size: 0.8rem;
     }
 
     section#tribute-info ul li {
@@ -119,6 +120,7 @@ section#tribute-info h3 a:hover {
 
     figcaption#img-caption {
         margin: 5% 0;
+        font-size: 0.8rem;
     }
 }
 
