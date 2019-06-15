@@ -137,14 +137,6 @@ section#tribute-info h3 a:hover {
         margin: 5% 0;
         font-size: 1.1rem;
     }
-
-    figcaption#img-caption {
-        font-size: 1rem;
-    }
-
-    section#tribute-info ul {
-        font-size: 1rem;
-    }
 }
 
 @media screen and (min-width: 320px) and (max-width: 479px) and (orientation: landscape) {
@@ -207,14 +199,6 @@ section#tribute-info h3 a:hover {
         margin: 8% 0;
         font-size: 1.1rem;
     }
-
-    figcaption#img-caption {
-        font-size: 1rem;
-    }
-
-    section#tribute-info ul {
-        font-size: 1rem;
-    }
 }
 
 @media screen and (min-width: 480px) and (max-width: 599px) and (orientation: landscape) {
@@ -273,14 +257,6 @@ section#tribute-info h3 a:hover {
         margin: 2% 0;
         font-size: 1.1rem;
     }
-
-    figcaption#img-caption {
-        font-size: 1rem;
-    }
-
-    section#tribute-info ul {
-        font-size: 1rem;
-    }
 }
 
 @media screen and (min-width: 600px) and (max-width: 839px) and (orientation: landscape) {
@@ -332,14 +308,6 @@ section#tribute-info h3 a:hover {
     section#tribute-info h3 {
         margin: 5% 0;
         font-size: 1.1rem;
-    }
-
-    figcaption#img-caption {
-        font-size: 1rem;
-    }
-
-    section#tribute-info ul {
-        font-size: 1rem;
     }
 }
 
