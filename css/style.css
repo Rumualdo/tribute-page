@@ -72,6 +72,7 @@ section#tribute-info ul {
     column-gap: 10%;
     column-rule: 3px solid #808080;
     list-style-position: inside;
+    line-height: 1;
 }
 
 section#tribute-info ul li {
