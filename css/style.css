@@ -236,7 +236,7 @@ section#tribute-info h3 a:hover {
 
 @media screen and (min-width: 600px) and (max-width: 839px) {
     body {
-        font-size: 14px;
+        font-size: 16px;
     }
 
     #main {
@@ -306,7 +306,7 @@ section#tribute-info h3 a:hover {
 
 @media screen and (min-width: 840px) and (max-width: 959px) {
     body {
-        font-size: 14px;
+        font-size: 16px;
     }
 
     section#tribute-info ul {
@@ -370,12 +370,12 @@ section#tribute-info h3 a:hover {
 
 @media screen and (min-width: 960px) and (max-width: 1023px) {
     body {
-        font-size: 14px;
+        font-size: 16px;
     }
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
     body {
-        font-size: 14px;
+        font-size: 16px;
     }
 }
