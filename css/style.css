@@ -92,7 +92,7 @@ section#tribute-info h3 a {
 }
 
 section#tribute-info h3 a:hover {
-    color: gainsboro;
+    color: rgb(146, 146, 146);
 }
 
 @media screen and (min-width: 320px) and (max-width: 479px) {
