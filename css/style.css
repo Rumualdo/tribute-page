@@ -118,7 +118,7 @@ section#tribute-info h3 a:hover {
     }
 
     section#tribute-info ul li {
-        margin-bottom: 10%;
+        margin-bottom: 5%;
     }
 
     figcaption#img-caption {
@@ -128,17 +128,17 @@ section#tribute-info h3 a:hover {
 
 @media screen and (min-width: 320px) and (max-width: 479px) and (orientation: portrait) {
     h1#title {
-        margin: 10% 0;
+        margin: 5% 0;
         font-size: 2rem;
     }
 
     section#tribute-info h2 {
-        margin: 10% 0;
+        margin: 5% 0;
         font-size: 1.2rem;
     }
 
     section#tribute-info h3 {
-        margin: 10% 0;
+        margin: 5% 0;
         font-size: 1.1rem;
     }
 
@@ -153,17 +153,17 @@ section#tribute-info h3 a:hover {
 
 @media screen and (min-width: 320px) and (max-width: 479px) and (orientation: landscape) {
     h1#title {
-        margin: 10% 0;
+        margin: 5% 0;
         font-size: 3rem;
     }
 
     section#tribute-info h2 {
-        margin: 10% 0;
+        margin: 5% 0;
         font-size: 1.8rem;
     }
 
     section#tribute-info h3 {
-        margin: 10% 0;
+        margin: 5% 0;
         font-size: 1.2rem;
     }
 }
