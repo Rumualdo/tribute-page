@@ -25,11 +25,8 @@ body {
 
 #main {
     max-width: 90%;
-    margin: 5% auto;
+    margin: 2% auto;
     padding: 1%;
-    border-radius: 10px;
-    background-color: rgba(0, 0, 0, 0.4);
-    box-shadow: 0 0 10px;
 }
 
 h1#title {
@@ -104,9 +101,6 @@ section#tribute-info h3 a:hover {
         margin: 0;
         max-width: 100%;
         padding: 1%;
-        border-radius: 0;
-        background-color: transparent;
-        box-shadow: none;
     }
 
     section#tribute-info ul {
@@ -177,9 +171,6 @@ section#tribute-info h3 a:hover {
         margin: 0;
         max-width: 100%;
         padding: 1%;
-        border-radius: 0;
-        background-color: transparent;
-        box-shadow: none;
     }
 
     section#tribute-info ul {
@@ -250,9 +241,6 @@ section#tribute-info h3 a:hover {
         margin: 0;
         max-width: 100%;
         padding: 1%;
-        border-radius: 0;
-        background-color: transparent;
-        box-shadow: none;
     }
 
     section#tribute-info ul {
