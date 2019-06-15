@@ -370,12 +370,12 @@ section#tribute-info h3 a:hover {
 
 @media screen and (min-width: 960px) and (max-width: 1023px) {
     body {
-        font-size: 12px;
+        font-size: 14px;
     }
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
     body {
-        font-size: 12px;
+        font-size: 14px;
     }
 }
